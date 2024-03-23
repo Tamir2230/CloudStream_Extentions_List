@@ -14,3 +14,11 @@
 2.  Multilingual providers repository:
 
 https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json
+
+
+****************************   OR   ******************************
+
+ Go To : https://cloudstream-on-fleek-co.ipns.dweb.link/repos/
+
+
+ **********Choose extention and then click Install .
