@@ -1,4 +1,4 @@
-# CloudStream_Extention
+# CloudStream_Extentions
  Most popular CloudStream Extentions are available here to add on Android Cloudstream app.
 
 
